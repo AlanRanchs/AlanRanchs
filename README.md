@@ -1,31 +1,36 @@
-# Hola, soy Alan Rodriguez 👋
+# Hi, I'm Alan Rodriguez 👋
 
-Estudiante de Ingeniería en Sistemas Computacionales. Me gusta construir aplicaciones web y móviles, aprender nuevas tecnologías y trabajar en equipo.
+Systems Engineering student. I enjoy building web and mobile apps, learning new technologies, and collaborating with others.
 
-- 🚀 Actualmente explorando: .NET MAUI, React + Vite y proyectos IoT
-- 📚 Aprendiendo: TypeScript y buenas prácticas de arquitectura
-- 💬 Pregúntame sobre: C#, JavaScript, PHP y React
-- 🎯 Objetivo: crecer como desarrollador full‑stack
+- 🚀 Currently exploring: .NET MAUI, React + Vite, and IoT projects
+- 📚 Learning: TypeScript, Java, and architecture best practices
+- 💬 Ask me about: C#, JavaScript, PHP, and React
+- 🎯 Goal: keep growing as a full‑stack developer
 
 ## 🔧 Tech stack
-- Lenguajes: C#, TypeScript, JavaScript, PHP
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,php,java,react,vite,dotnet,git,github&perline=8" alt="Tech stack icons" />
+</p>
+
+- Languages: C#, TypeScript, JavaScript, PHP
 - Frontend: React, Vite
 - Mobile: .NET MAUI
-- Otros: Git/GitHub
+- Tools: Git, GitHub
 
-## 🧩 Proyectos destacados
-- [Alan-Portfolio](https://github.com/AlanRanchs/Alan-Portfolio) · Mi portafolio hecho con React + Vite (TypeScript)
-- [Salud-Felinos-Maui](https://github.com/AlanRanchs/Salud-Felinos-Maui) · App móvil en .NET MAUI para el cuidado de felinos
-- [SistemaWebPapeleria](https://github.com/AlanRanchs/SistemaWebPapeleria) · Sistema web en PHP para inventario y pedidos de una papelería (local)
-- [pruebas-landing](https://github.com/AlanRanchs/pruebas-landing) · Landing page con GitHub Pages
+## 🧩 Featured projects
+- [Alan-Portfolio](https://github.com/AlanRanchs/Alan-Portfolio) · My personal portfolio built with React + Vite (TypeScript)
+- [Salud-Felinos-Maui](https://github.com/AlanRanchs/Salud-Felinos-Maui) · .NET MAUI mobile app for cat care
+- [SistemaWebPapeleria](https://github.com/AlanRanchs/SistemaWebPapeleria) · PHP web system for inventory and orders (local environment)
+- [pruebas-landing](https://github.com/AlanRanchs/pruebas-landing) · Landing page with GitHub Pages
 
-## 📊 Estadísticas
+## 📊 Stats
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanRanchs&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanRanchs&layout=compact&langs_count=8)
 
-## 🤝 Contacto
-Si quieres colaborar o tienes dudas, puedes abrir un issue en este repositorio o visitar mi perfil.
+## 🤝 Contact
+If you want to collaborate or have any questions, feel free to open an issue in this repository or visit my profile.
 
 —
 
-Actualizado: 25 de octubre de 2025
+Updated: October 25, 2025
