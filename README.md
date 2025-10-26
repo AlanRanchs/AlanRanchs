@@ -40,4 +40,4 @@ Systems Engineering student. I enjoy building web and mobile apps, learning new 
 
 —
 
-Updated: October 25, 2025
+Updated: October 26, 2025
