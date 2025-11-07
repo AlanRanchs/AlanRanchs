@@ -2,7 +2,7 @@
 
 Systems Engineering student. I enjoy building web and mobile apps, learning new technologies, and collaborating with others.
 
-- 🚀 Currently exploring: .NET MAUI, React + Vite, and IoT projects
+- 🚀 Currently exploring: React + Vite, and IoT projects
 - 📚 Learning: TypeScript, Java, and architecture best practices
 - 💬 Ask me about: C#, JavaScript, PHP, and React
 - 🎯 Goal: keep growing as a full‑stack developer
